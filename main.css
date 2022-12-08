@@ -1,0 +1,21 @@
+body {
+    background-color: #A6E1FA;
+    justify-content: center;
+    color: #0A2472;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+h4 {
+    font-size: 15px;
+}
+
+.row{
+    margin: 10px;
+}
